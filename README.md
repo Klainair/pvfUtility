@@ -1,6 +1,11 @@
 # pvfUtility
 [下载最新版本](https://pan.baidu.com/s/1H3S5uTtzMkcUEkyRBOwUOg)
 
+### 2018.2：
+1. 保存优化,速度提升,为此增加了快速/完全两种保存模式.
+2.统一转换繁体操作模式，导入时转换繁体和编辑器保存转换繁体。
+3.bug修复
+
 ### pvfUtility 2018.1
 
 - 导入、提取、搜索等界面调整
