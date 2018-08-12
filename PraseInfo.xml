@@ -7,4 +7,13 @@
   <Section File="*.map" SectionName="[NPC]" Description="NPC" GroupLength="5"/>
   <Section File="*.map" SectionName="[ai character]" Description="APC" GroupLength="8"/>
   <Section File="*.map" SectionName="[event monster position]" Description="怪物" GroupLength="3"/>
+  
+  <Section File="*.wdm" SectionName="[hell freepass item]" Description="免邀请函门票" GroupLength="2"/>
+  <Section File="*.wdm" SectionName="[dungeon]" Description="地下城" GroupLength="2"/>
+  
+  <Section File="*.mob" SectionName="[ability category]" Description="能力目录" GroupLength="3"/>
+  <Section File="*.mob" SectionName="[speech on situation]" Description="条件发言" GroupLength="3"/>
+  <Section File="*.mob" SectionName="[attack kind]" Description="攻击类型" GroupLength="12"/>
+  
+  <Section File="*.equ" SectionName="[skill data up]" Description="技能提升数据" GroupLength="7"/>  
 </root>
