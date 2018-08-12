@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Section File="*.map" SectionName="[animation]" Description="地图相关动画文件" GroupLength="5" />
+  <Section File="*.map" SectionName="[passive object]" Description="地图相关被动对象" GroupLength="4"/>
+  <Section File="*.map" SectionName="[monster]" Description="怪物" GroupLength="10"/>
+  <Section File="*.map" SectionName="[monster condition]" Description="地图相关动画文件" GroupLength="10"/>
+  <Section File="*.map" SectionName="[NPC]" Description="NPC" GroupLength="5"/>
+  <Section File="*.map" SectionName="[ai character]" Description="APC" GroupLength="8"/>
+  <Section File="*.map" SectionName="[event monster position]" Description="怪物" GroupLength="3"/>
+</root>
