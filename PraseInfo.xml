@@ -16,4 +16,6 @@
   <Section File="*.mob" SectionName="[attack kind]" Description="攻击类型" GroupLength="12"/>
   
   <Section File="*.equ" SectionName="[skill data up]" Description="技能提升数据" GroupLength="7"/>  
+  
+  <Section File="*.stk" SectionName="[package data]" Description="包裹数据" GroupLength="2"/>  
 </root>
