@@ -34,6 +34,6 @@
   <Section File="etc/newcashshop.etc" SectionName="[gift only]" Description="时装" GroupLength="1"/>  
   <Section File="etc/newcashshop.etc" SectionName="[cerapoint disallowance]" Description="时装" GroupLength="1"/>  
   <Section File="etc/newcashshop.etc" SectionName="[gift disallowance]" Description="时装" GroupLength="1"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[cart disallowance]"" Description="时装" GroupLength="1"/>  
+  <Section File="etc/newcashshop.etc" SectionName="[cart disallowance]" Description="时装" GroupLength="1"/>  
                                                                                                          
 </root>
