@@ -36,5 +36,5 @@
   <Section File="etc/newcashshop.etc" SectionName="[gift disallowance]" Description="时装" GroupLength="1"/>  
   <Section File="etc/newcashshop.etc" SectionName="[cart disallowance]" Description="时装" GroupLength="1"/>  
   
-  <Section File="*.skl" SectionName="[package data]" Description="技能" GroupLength="6"/>  
+  <Section File="*.skl" SectionName="[level info]" Description="技能" GroupLength="6"/>  
 </root>
