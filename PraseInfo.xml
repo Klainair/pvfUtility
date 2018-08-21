@@ -36,6 +36,5 @@
   <Section File="etc/newcashshop.etc" SectionName="[gift disallowance]" Description="时装" GroupLength="1"/>  
   <Section File="etc/newcashshop.etc" SectionName="[cart disallowance]" Description="时装" GroupLength="1"/>  
   
-  <Section File="*.skl" SectionName="[level info]" Description="技能" GroupLength="6"/>  
   <Section File="etc/itemdropinfo_common.etc" SectionName="[gold drop ref table]" Description="金币" GroupLength="3"/> 
 </root>
