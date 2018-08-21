@@ -18,23 +18,6 @@
   <Section File="*.equ" SectionName="[skill data up]" Description="技能提升数据" GroupLength="7"/>  
   
   <Section File="*.stk" SectionName="[package data]" Description="包裹数据" GroupLength="2"/>  
-  <!-- 商城文件 -->
-  <Section File="etc/newcashshop.etc" SectionName="[avatar]" Description="时装" GroupLength="12"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[coin]" Description="时装" GroupLength="9"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[item]" Description="时装" GroupLength="9"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[premium]" Description="时装" GroupLength="9"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[creature]" Description="时装" GroupLength="9"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[package]" Description="时装" GroupLength="10"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[mileage item]" Description="时装" GroupLength="9"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[npc info]" Description="时装" GroupLength="2"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[avatar coin]" Description="时装" GroupLength="9"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[category event tag]" Description="时装" GroupLength="1"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[not stackable buy]" Description="时装" GroupLength="1"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[max gift count]" Description="时装" GroupLength="1"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[gift only]" Description="时装" GroupLength="1"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[cerapoint disallowance]" Description="时装" GroupLength="1"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[gift disallowance]" Description="时装" GroupLength="1"/>  
-  <Section File="etc/newcashshop.etc" SectionName="[cart disallowance]" Description="时装" GroupLength="1"/>  
   
   <Section File="etc/itemdropinfo_common.etc" SectionName="[gold drop ref table]" Description="金币" GroupLength="3"/> 
 </root>
