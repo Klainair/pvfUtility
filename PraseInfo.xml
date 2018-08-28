@@ -39,6 +39,4 @@
   <Section File="etc/newcashshop.etc" SectionName="[gift disallowance]" Description="时装" GroupLength="1"/>  
   <Section File="etc/newcashshop.etc" SectionName="[cart disallowance]" Description="时装" GroupLength="1"/>   
   
-  <Section File="monster/monsterapcdifficultybonus.tbl" SectionName="[dungeon party balance]" Description="0" GroupLength="4"/>   
-  
 </root>
